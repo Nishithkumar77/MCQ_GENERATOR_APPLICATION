@@ -1,6 +1,6 @@
 # MCQ_GENERATOR_APPLICATION
 
-It is django based web application using Generative AI to generate MCQ questions and answwer from text provided and we can save this questions for further use.
+It is django based web application using Generative AI to generate MCQ questions and answer from text provided and we can save this questions for further use.
 
 Front - HTML, CSS
 Frame work - Django
